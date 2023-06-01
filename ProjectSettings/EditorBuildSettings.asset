@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Huawei/Demos/Account/AccountDemo.unity
+    guid: 1dbccd04ace8d724fb56d687a0118ac0
+  - enabled: 1
     path: Assets/Scenes/Main.unity
     guid: 1ae913a676965ae428ecd65357df371d
   - enabled: 1
